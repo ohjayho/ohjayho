@@ -1,4 +1,10 @@
-### Hi there 👋
+<img src="https://github.com/ohjayho/ohjayho/assets/48760416/3f24b710-0a13-4778-8519-218d43023d28" width=400px>
+<p></p>
+<span>Currently working in</span>
+<p></p>
+<img src="https://img.shields.io/badge/React-%230E0E0E?style=plastic&logo=React">
+
+
 
 <!--
 **ohjayho/ohjayho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
