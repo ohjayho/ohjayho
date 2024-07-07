@@ -2,7 +2,11 @@
 <p></p>
 <span>Currently working in</span>
 <p></p>
+<p>
 <img src="https://img.shields.io/badge/React-%230E0E0E?style=plastic&logo=React">
+<img src="https://img.shields.io/badge/Next.js-%23000000?logo=nextdotjs">
+</p>
+
 
 
 
