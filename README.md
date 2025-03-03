@@ -3,6 +3,7 @@
 <span>Currently working in</span>
 <p></p>
 <p>
+<img src="https://img.shields.io/badge/Next.js-%23000000?style=plastic&logo=nextdotjs">
 <img src="https://img.shields.io/badge/Vue.js-%23000000?style=plastic&logo=vuedotjs">
 <img src="https://img.shields.io/badge/Tailwind-%23000000?style=plastic&logo=tailwindcss">
 </p>
